@@ -10,16 +10,16 @@
 |------+------+------+-------+--------|
 |   10 |    1 | -    |     3 |      5 |
   
-*** Setup
-Begin sitting in an upright position with your feet flat on the floor.
+- Setup ::
+  Begin sitting in an upright position with your feet flat on the floor.
 
-*** Movement
-Gently draw your chin in, while keeping your eyes fixed on something in front of
-you.
+- Movement ::
+  Gently draw your chin in, while keeping your eyes fixed on something in front
+  of you.
 
-*** Tip
-Make sure that you do not look down as you do this exercise, or bend your neck
-forward.
+- Tip ::
+  Make sure that you do not look down as you do this exercise, or bend your neck
+  forward.
 
 ** Seated Scapular Retraction                              :seated:no_equip:
 | Reps | Sets | Hold | Daily | Weekly |
