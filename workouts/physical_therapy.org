@@ -6,10 +6,9 @@
 
 * Bicep Tendinitis
 ** Seated Cervical Retraction                              :seated:no_equip:
-- Reps :: 10
-- Sets :: 1
-- Daily :: 3
-- Weekly :: 5
+| Reps | Sets | Hold | Daily | Weekly |
+|------+------+------+-------+--------|
+|   10 |    1 | -    |     3 |      5 |
   
 *** Setup
 Begin sitting in an upright position with your feet flat on the floor.
@@ -23,10 +22,9 @@ Make sure that you do not look down as you do this exercise, or bend your neck
 forward.
 
 ** Seated Scapular Retraction                              :seated:no_equip:
-- Reps :: 10
-- Sets :: 1
-- Daily :: 3
-- Weekly :: 5
+| Reps | Sets | Hold | Daily | Weekly |
+|------+------+------+-------+--------|
+|   10 |    1 | -    |     3 |      5 |
 
 *** Setup
 Begin sitting in an upright position.
@@ -38,11 +36,9 @@ Gently squeeze your shoulder blades together, relax, and then repeat.
 Make sure to maintain good posture during the exercise.
 
 ** Seated Isometric Elbow Flexion                          :seated:no_equip:
-- Reps :: 10
-- Sets :: 1
-- Hold :: 5 seconds
-- Daily :: 2
-- Weekly :: 5
+| Reps | Sets | Hold  | Daily | Weekly |
+|------+------+-------+-------+--------|
+|   10 |    1 | 5 sec |     2 |      5 |
 
 *** Setup
 Begin sitting in an upright position with one elbow bent at 90 degrees, hand in
@@ -56,11 +52,9 @@ does not move. Relax, and repeat.
 There should be a little to no movement during this exercise.
 
 ** Seated Isometric Shoulder Flexion                       :seated:no_equip:
-- Reps :: 10
-- Sets :: 1
-- Hold :: 5 seconds
-- Daily :: 2
-- Weekly :: 5
+| Reps | Sets | Hold  | Daily | Weekly |
+|------+------+-------+-------+--------|
+|   10 |    1 | 5 sec |     2 |      5 |
 
 *** Setup
 Begin sitting upright in a chair.
@@ -76,6 +70,9 @@ Make sure not to raise your arm above shoulder height and try not to shrug your
 shoulders during the exercise. There should be little to no movement.
 
 ** Doorway Pec Stretch at 90 Degrees abduction            :standing:doorway:
+| Reps | Sets | Hold   | Daily | Weekly |
+|------+------+--------+-------+--------|
+|    3 |    1 | 30 sec |     1 |      5 |
 - Reps :: 3
 - Sets :: 1
 - Hold :: 30 seconds
@@ -95,10 +92,9 @@ Make sure to maintain a gentle stretch and do not shrug your shoulders during
 the exercise.
 
 ** Scapular Retraction with Resistance                       :standing:band:
-- Reps :: 10
-- Sets :: 3
-- Daily :: 1
-- Weekly :: 5
+| Reps | Sets | Hold | Daily | Weekly |
+|------+------+------+-------+--------|
+|   10 |    3 | -    |     1 |      5 |
 
 *** Setup
 Begin standing upright with your elbows bent and tucked at your sides, holding
