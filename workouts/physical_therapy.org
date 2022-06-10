@@ -1,0 +1,123 @@
+#+STARTUP: content showstars indent
+#+OPTIONS: tags:nil
+#+STARTUP: content showstars indent
+#+TITLE: Workouts - Physical Therapy
+#+FILETAGS: health pt workout
+
+* Bicep Tendinitis
+** Daily                                                             :daily:
+*** Seated Cervical Retraction                            :seated:no_equip:
+- Reps :: 10
+- Sets :: 1
+- Daily :: 3
+- Weekly :: 5
+  
+**** Setup
+Begin sitting in an upright position with your feet flat on the floor.
+
+**** Movement
+Gently draw your chin in, while keeping your eyes fixed on something in front of
+you.
+
+**** Tip
+Make sure that you do not look down as you do this exercise, or bend your neck
+forward.
+
+*** Seated Scapular Retraction                            :seated:no_equip:
+- Reps :: 10
+- Sets :: 1
+- Daily :: 3
+- Weekly :: 5
+
+**** Setup
+Begin sitting in an upright position.
+
+**** Movement
+Gently squeeze your shoulder blades together, relax, and then repeat.
+
+**** Tip
+Make sure to maintain good posture during the exercise.
+
+*** Seated Isometric Elbow Flexion                        :seated:no_equip:
+- Reps :: 10
+- Sets :: 1
+- Hold :: 5 seconds
+- Daily :: 2
+- Weekly :: 5
+
+**** Setup
+Begin sitting in an upright position with one elbow bent at 90 degrees, hand in
+a fist, and your other hand flat (palm down) on top of your fist.
+
+**** Movement
+Try to bend your upward, while resisting with your other hand so that your arm
+does not move. Relax, and repeat.
+
+**** Tip
+There should be a little to no movement during this exercise.
+
+*** Seated Isometric Shoulder Flexion                     :seated:no_equip:
+- Reps :: 10
+- Sets :: 1
+- Hold :: 5 seconds
+- Daily :: 2
+- Weekly :: 5
+
+**** Setup
+Begin sitting upright in a chair.
+
+**** Movement
+Lift one arm straight out in front of your body with your thumb pointing up.
+Place your other hand on your forearm to prevent further movement of your arm.
+Continue to press your raised arm up towards the ceiling and into your hand.
+Relax and repeat.
+
+**** Tip
+Make sure not to raise your arm above shoulder height and try not to shrug your
+shoulders during the exercise. There should be little to no movement.
+
+*** Doorway Pec Stretch at 90 Degrees abduction          :standing:doorway:
+- Reps :: 3
+- Sets :: 1
+- Hold :: 30 seconds
+- Daily :: 1
+- Weekly :: 5
+
+**** Setup
+Begin in a standing upright position in the center of a doorway.
+
+**** Movement
+With your elbow bent, place your forearms on the sides of the doorway at a 90
+degree angle from your sides, then take a small step forward until you feel a
+stretch in the front of your shoulders. Hold this position.
+
+**** Tip
+Make sure to maintain a gentle stretch and do not shrug your shoulders during
+the exercise.
+
+*** Scapular Retraction with Resistance :standing:band:
+- Reps :: 10
+- Sets :: 3
+- Daily :: 1
+- Weekly :: 5
+
+**** Setup
+Begin standing upright with your elbows bent and tucked at your sides, holding
+the ends of a resistance band that is anchored in front of you.
+
+**** Movement
+Squeeze your shoulder blades together and downward, pulling against the
+resistance band. Hold this position, then relax and repeat.
+
+**** Tip
+Make sure to keep your back straight and do not shrug your shoulders during the
+exercise.
+
+** Bi-Weekly
+*** Bicep Curls w/ Slow Descent
+
+*** Standing Low Trap Wall Lift Off
+
+*** Laying Overhead Arm Floor Hurdles
+
+*** Y/T Extensions Downward On Ball

@@ -1,0 +1,8 @@
+#+STARTUP: content showstars indent
+#+OPTIONS: tags:nil
+#+STARTUP: content showstars indent
+#+TITLE: Health
+#+FILETAGS: health
+
+* Description
+A repository to store various health resources from nutrition to workouts.
