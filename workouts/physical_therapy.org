@@ -103,10 +103,31 @@ resistance band. Hold this position, then relax and repeat.
 Make sure to keep your back straight and do not shrug your shoulders during the
 exercise.
 
-** Bicep Curls w/ Slow Descent
+** Sidelying Shoulder External Rotation w/ Dumbbell         :lying:dumbbell:
+| Reps | Sets | Hold | Daily | Weekly |
+|------+------+------+-------+--------|
+|   10 |    3 | -    |     1 |      3 |
 
-** Standing Low Trap Wall Lift Off
+*** Setup
+Begin lying on your side with a towel roll under your upper arm and elbow bent
+at 90 degrees, holding a dumbbell in your hand. Place a pillow or towel roll
+under your head for support.
 
-** Laying Overhead Arm Floor Hurdles
+*** Movement
+Rotate your arm upward, then return to the starting position and repeat.
 
-** Y/T Extensions Downward On Ball
+*** Tip
+Make sure to keep your elbow bent at 90 degree angle and your arm tucked against
+the towel.
+
+** Bicep Curls w/ Slow Descent                           :standing:dumbbell:
+
+** Standing Low Trap Wall Lift Off                       :standing:no_equip:
+
+** Laying Overhead Arm Floor Hurdles                        :lying:no_equip:
+
+** Y/T Extensions Downward On Ball                              :lying:ball:
+
+** Wall Clock w/ Band                                        :standing:band:
+
+** Banded 'X' pulses                                         :standing:band:
