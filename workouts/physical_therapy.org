@@ -73,11 +73,6 @@ shoulders during the exercise. There should be little to no movement.
 | Reps | Sets | Hold   | Daily | Weekly |
 |------+------+--------+-------+--------|
 |    3 |    1 | 30 sec |     1 |      5 |
-- Reps :: 3
-- Sets :: 1
-- Hold :: 30 seconds
-- Daily :: 1
-- Weekly :: 5
 
 *** Setup
 Begin in a standing upright position in the center of a doorway.
